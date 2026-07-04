@@ -5,7 +5,7 @@
 export const CHAIN = {
   name: 'Arbitrum Sepolia',
   chainId: 421614,
-  rpcUrl: 'https://sepolia-rollup.arbitrum.io/rpc',
+  rpcUrl: 'https://arbitrum-sepolia-rpc.publicnode.com',
   explorerTxUrl: 'https://sepolia.arbiscan.io/tx/'
 }
 
