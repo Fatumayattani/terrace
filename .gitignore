@@ -1,0 +1,4 @@
+node_modules/
+.terrace-dev-wallet/
+.env
+*.log
