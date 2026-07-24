@@ -1,0 +1,18 @@
+{
+  "name": "terrace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "World Cup prediction pools on Injective, settled autonomously via x402",
+  "scripts": {
+    "compile": "node contracts/compile.mjs",
+    "deploy": "node scripts/deploy.mjs",
+    "rehearse": "bash scripts/rehearse.sh"
+  },
+  "dependencies": {
+    "solc": "0.8.28",
+    "viem": "^2.21.0"
+  },
+  "devDependencies": {
+    "ganache": "^7.9.2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "terrace-agent",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Autonomous settlement agent for Terrace pools on Injective EVM",
+  "scripts": {
+    "start": "tsx src/agent.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@injectivelabs/x402": "^0.0.1",
+    "viem": "^2.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

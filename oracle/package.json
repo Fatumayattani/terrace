@@ -1,0 +1,16 @@
+{
+  "name": "terrace-oracle",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "x402-gated World Cup result oracle on Injective EVM",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "X402_MODE=off node src/server.js",
+    "sync": "node src/sync.mjs"
+  },
+  "dependencies": {
+    "@injectivelabs/x402": "^0.0.1",
+    "express": "^4.21.2"
+  }
+}

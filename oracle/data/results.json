@@ -1,0 +1,716 @@
+{
+  "wc2026-mexico-south-africa-2026-06-11": {
+    "title": "Mexico v South Africa (Matchday 1, 2026-06-11)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-south-korea-czech-republic-2026-06-11": {
+    "title": "South Korea v Czech Republic (Matchday 1, 2026-06-11)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-czech-republic-south-africa-2026-06-18": {
+    "title": "Czech Republic v South Africa (Matchday 8, 2026-06-18)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-mexico-south-korea-2026-06-18": {
+    "title": "Mexico v South Korea (Matchday 8, 2026-06-18)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-czech-republic-mexico-2026-06-24": {
+    "title": "Czech Republic v Mexico (Matchday 14, 2026-06-24)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 3,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-south-africa-south-korea-2026-06-24": {
+    "title": "South Africa v South Korea (Matchday 14, 2026-06-24)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-canada-bosnia-herzegovina-2026-06-12": {
+    "title": "Canada v Bosnia & Herzegovina (Matchday 2, 2026-06-12)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-qatar-switzerland-2026-06-13": {
+    "title": "Qatar v Switzerland (Matchday 3, 2026-06-13)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-switzerland-bosnia-herzegovina-2026-06-18": {
+    "title": "Switzerland v Bosnia & Herzegovina (Matchday 8, 2026-06-18)",
+    "finished": true,
+    "homeScore": 4,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-canada-qatar-2026-06-18": {
+    "title": "Canada v Qatar (Matchday 8, 2026-06-18)",
+    "finished": true,
+    "homeScore": 6,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-switzerland-canada-2026-06-24": {
+    "title": "Switzerland v Canada (Matchday 14, 2026-06-24)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-bosnia-herzegovina-qatar-2026-06-24": {
+    "title": "Bosnia & Herzegovina v Qatar (Matchday 14, 2026-06-24)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-brazil-morocco-2026-06-13": {
+    "title": "Brazil v Morocco (Matchday 3, 2026-06-13)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-haiti-scotland-2026-06-13": {
+    "title": "Haiti v Scotland (Matchday 3, 2026-06-13)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-scotland-morocco-2026-06-19": {
+    "title": "Scotland v Morocco (Matchday 9, 2026-06-19)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-brazil-haiti-2026-06-19": {
+    "title": "Brazil v Haiti (Matchday 9, 2026-06-19)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-scotland-brazil-2026-06-24": {
+    "title": "Scotland v Brazil (Matchday 14, 2026-06-24)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 3,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-morocco-haiti-2026-06-24": {
+    "title": "Morocco v Haiti (Matchday 14, 2026-06-24)",
+    "finished": true,
+    "homeScore": 4,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-usa-paraguay-2026-06-12": {
+    "title": "USA v Paraguay (Matchday 2, 2026-06-12)",
+    "finished": true,
+    "homeScore": 4,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-australia-turkey-2026-06-13": {
+    "title": "Australia v Turkey (Matchday 3, 2026-06-13)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-usa-australia-2026-06-19": {
+    "title": "USA v Australia (Matchday 9, 2026-06-19)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-turkey-paraguay-2026-06-19": {
+    "title": "Turkey v Paraguay (Matchday 9, 2026-06-19)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-turkey-usa-2026-06-25": {
+    "title": "Turkey v USA (Matchday 15, 2026-06-25)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-paraguay-australia-2026-06-25": {
+    "title": "Paraguay v Australia (Matchday 15, 2026-06-25)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-germany-curacao-2026-06-14": {
+    "title": "Germany v Curaçao (Matchday 4, 2026-06-14)",
+    "finished": true,
+    "homeScore": 7,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-ivory-coast-ecuador-2026-06-14": {
+    "title": "Ivory Coast v Ecuador (Matchday 4, 2026-06-14)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-germany-ivory-coast-2026-06-20": {
+    "title": "Germany v Ivory Coast (Matchday 10, 2026-06-20)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-ecuador-curacao-2026-06-20": {
+    "title": "Ecuador v Curaçao (Matchday 10, 2026-06-20)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-curacao-ivory-coast-2026-06-25": {
+    "title": "Curaçao v Ivory Coast (Matchday 15, 2026-06-25)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-ecuador-germany-2026-06-25": {
+    "title": "Ecuador v Germany (Matchday 15, 2026-06-25)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-netherlands-japan-2026-06-14": {
+    "title": "Netherlands v Japan (Matchday 4, 2026-06-14)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-sweden-tunisia-2026-06-14": {
+    "title": "Sweden v Tunisia (Matchday 4, 2026-06-14)",
+    "finished": true,
+    "homeScore": 5,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-netherlands-sweden-2026-06-20": {
+    "title": "Netherlands v Sweden (Matchday 10, 2026-06-20)",
+    "finished": true,
+    "homeScore": 5,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-tunisia-japan-2026-06-20": {
+    "title": "Tunisia v Japan (Matchday 10, 2026-06-20)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 4,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-japan-sweden-2026-06-25": {
+    "title": "Japan v Sweden (Matchday 15, 2026-06-25)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-tunisia-netherlands-2026-06-25": {
+    "title": "Tunisia v Netherlands (Matchday 15, 2026-06-25)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 3,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-belgium-egypt-2026-06-15": {
+    "title": "Belgium v Egypt (Matchday 5, 2026-06-15)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-iran-new-zealand-2026-06-15": {
+    "title": "Iran v New Zealand (Matchday 5, 2026-06-15)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-belgium-iran-2026-06-21": {
+    "title": "Belgium v Iran (Matchday 11, 2026-06-21)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-new-zealand-egypt-2026-06-21": {
+    "title": "New Zealand v Egypt (Matchday 11, 2026-06-21)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 3,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-egypt-iran-2026-06-26": {
+    "title": "Egypt v Iran (Matchday 16, 2026-06-26)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-new-zealand-belgium-2026-06-26": {
+    "title": "New Zealand v Belgium (Matchday 16, 2026-06-26)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 5,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-spain-cape-verde-2026-06-15": {
+    "title": "Spain v Cape Verde (Matchday 5, 2026-06-15)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-saudi-arabia-uruguay-2026-06-15": {
+    "title": "Saudi Arabia v Uruguay (Matchday 5, 2026-06-15)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-spain-saudi-arabia-2026-06-21": {
+    "title": "Spain v Saudi Arabia (Matchday 11, 2026-06-21)",
+    "finished": true,
+    "homeScore": 4,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-uruguay-cape-verde-2026-06-21": {
+    "title": "Uruguay v Cape Verde (Matchday 11, 2026-06-21)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-cape-verde-saudi-arabia-2026-06-26": {
+    "title": "Cape Verde v Saudi Arabia (Matchday 16, 2026-06-26)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-uruguay-spain-2026-06-26": {
+    "title": "Uruguay v Spain (Matchday 16, 2026-06-26)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-france-senegal-2026-06-16": {
+    "title": "France v Senegal (Matchday 6, 2026-06-16)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-iraq-norway-2026-06-16": {
+    "title": "Iraq v Norway (Matchday 6, 2026-06-16)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 4,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-france-iraq-2026-06-22": {
+    "title": "France v Iraq (Matchday 12, 2026-06-22)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-norway-senegal-2026-06-22": {
+    "title": "Norway v Senegal (Matchday 12, 2026-06-22)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-norway-france-2026-06-26": {
+    "title": "Norway v France (Matchday 16, 2026-06-26)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 4,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-senegal-iraq-2026-06-26": {
+    "title": "Senegal v Iraq (Matchday 16, 2026-06-26)",
+    "finished": true,
+    "homeScore": 5,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-argentina-algeria-2026-06-16": {
+    "title": "Argentina v Algeria (Matchday 6, 2026-06-16)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-austria-jordan-2026-06-16": {
+    "title": "Austria v Jordan (Matchday 6, 2026-06-16)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-argentina-austria-2026-06-22": {
+    "title": "Argentina v Austria (Matchday 12, 2026-06-22)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-jordan-algeria-2026-06-22": {
+    "title": "Jordan v Algeria (Matchday 12, 2026-06-22)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-algeria-austria-2026-06-27": {
+    "title": "Algeria v Austria (Matchday 17, 2026-06-27)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 3,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-jordan-argentina-2026-06-27": {
+    "title": "Jordan v Argentina (Matchday 17, 2026-06-27)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 3,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-portugal-dr-congo-2026-06-17": {
+    "title": "Portugal v DR Congo (Matchday 7, 2026-06-17)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-uzbekistan-colombia-2026-06-17": {
+    "title": "Uzbekistan v Colombia (Matchday 7, 2026-06-17)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 3,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-portugal-uzbekistan-2026-06-23": {
+    "title": "Portugal v Uzbekistan (Matchday 13, 2026-06-23)",
+    "finished": true,
+    "homeScore": 5,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-colombia-dr-congo-2026-06-23": {
+    "title": "Colombia v DR Congo (Matchday 13, 2026-06-23)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-colombia-portugal-2026-06-27": {
+    "title": "Colombia v Portugal (Matchday 17, 2026-06-27)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-dr-congo-uzbekistan-2026-06-27": {
+    "title": "DR Congo v Uzbekistan (Matchday 17, 2026-06-27)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-england-croatia-2026-06-17": {
+    "title": "England v Croatia (Matchday 7, 2026-06-17)",
+    "finished": true,
+    "homeScore": 4,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-ghana-panama-2026-06-17": {
+    "title": "Ghana v Panama (Matchday 7, 2026-06-17)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-england-ghana-2026-06-23": {
+    "title": "England v Ghana (Matchday 13, 2026-06-23)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-panama-croatia-2026-06-23": {
+    "title": "Panama v Croatia (Matchday 13, 2026-06-23)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-panama-england-2026-06-27": {
+    "title": "Panama v England (Matchday 17, 2026-06-27)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-croatia-ghana-2026-06-27": {
+    "title": "Croatia v Ghana (Matchday 17, 2026-06-27)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-south-africa-canada-2026-06-28": {
+    "title": "South Africa v Canada (Round of 32, 2026-06-28)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-germany-paraguay-2026-06-29": {
+    "title": "Germany v Paraguay (Round of 32, 2026-06-29)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-netherlands-morocco-2026-06-29": {
+    "title": "Netherlands v Morocco (Round of 32, 2026-06-29)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-brazil-japan-2026-06-29": {
+    "title": "Brazil v Japan (Round of 32, 2026-06-29)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-france-sweden-2026-06-30": {
+    "title": "France v Sweden (Round of 32, 2026-06-30)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-ivory-coast-norway-2026-06-30": {
+    "title": "Ivory Coast v Norway (Round of 32, 2026-06-30)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-mexico-ecuador-2026-06-30": {
+    "title": "Mexico v Ecuador (Round of 32, 2026-06-30)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-england-dr-congo-2026-07-01": {
+    "title": "England v DR Congo (Round of 32, 2026-07-01)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-usa-bosnia-herzegovina-2026-07-01": {
+    "title": "USA v Bosnia & Herzegovina (Round of 32, 2026-07-01)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-belgium-senegal-2026-07-01": {
+    "title": "Belgium v Senegal (Round of 32, 2026-07-01)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-portugal-croatia-2026-07-02": {
+    "title": "Portugal v Croatia (Round of 32, 2026-07-02)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-spain-austria-2026-07-02": {
+    "title": "Spain v Austria (Round of 32, 2026-07-02)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-switzerland-algeria-2026-07-02": {
+    "title": "Switzerland v Algeria (Round of 32, 2026-07-02)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-argentina-cape-verde-2026-07-03": {
+    "title": "Argentina v Cape Verde (Round of 32, 2026-07-03)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-colombia-ghana-2026-07-03": {
+    "title": "Colombia v Ghana (Round of 32, 2026-07-03)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-australia-egypt-2026-07-03": {
+    "title": "Australia v Egypt (Round of 32, 2026-07-03)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-paraguay-france-2026-07-04": {
+    "title": "Paraguay v France (Round of 16, 2026-07-04)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-canada-morocco-2026-07-04": {
+    "title": "Canada v Morocco (Round of 16, 2026-07-04)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 3,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-brazil-norway-2026-07-05": {
+    "title": "Brazil v Norway (Round of 16, 2026-07-05)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-mexico-england-2026-07-05": {
+    "title": "Mexico v England (Round of 16, 2026-07-05)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 3,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-portugal-spain-2026-07-06": {
+    "title": "Portugal v Spain (Round of 16, 2026-07-06)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-usa-belgium-2026-07-06": {
+    "title": "USA v Belgium (Round of 16, 2026-07-06)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 4,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-argentina-egypt-2026-07-07": {
+    "title": "Argentina v Egypt (Round of 16, 2026-07-07)",
+    "finished": true,
+    "homeScore": 3,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-switzerland-colombia-2026-07-07": {
+    "title": "Switzerland v Colombia (Round of 16, 2026-07-07)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-france-morocco-2026-07-09": {
+    "title": "France v Morocco (Quarter-final, 2026-07-09)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 0,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-spain-belgium-2026-07-10": {
+    "title": "Spain v Belgium (Quarter-final, 2026-07-10)",
+    "finished": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-norway-england-2026-07-11": {
+    "title": "Norway v England (Quarter-final, 2026-07-11)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-argentina-switzerland-2026-07-11": {
+    "title": "Argentina v Switzerland (Quarter-final, 2026-07-11)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 1,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-france-spain-2026-07-14": {
+    "title": "France v Spain (Semi-final, 2026-07-14)",
+    "finished": true,
+    "homeScore": 0,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  },
+  "wc2026-england-argentina-2026-07-15": {
+    "title": "England v Argentina (Semi-final, 2026-07-15)",
+    "finished": true,
+    "homeScore": 1,
+    "awayScore": 2,
+    "source": "openfootball/worldcup.json"
+  }
+}
